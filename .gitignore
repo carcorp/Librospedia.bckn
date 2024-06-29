@@ -4,7 +4,7 @@
 ### Flask ###
 instance/*
 !instance/.gitignore
-.webassets-cache
+.webassets-cache 
 .env
 
 ### Flask.Python Stack ###
@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.env
 
 # Spyder project settings
 .spyderproject
