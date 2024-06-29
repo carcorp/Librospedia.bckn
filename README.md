@@ -18,6 +18,6 @@ Así que inicia el viaje y ponte en marcha en la contribución para que Librospe
 
 Saludos Librospedia 
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZhbXdobnRtd2kya3h3bGk3d2lyeDd4dmoyZnp5NzRlbnZnbnIzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD31EMy7t9dzwpq/giphy.gif 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZhbXdobnRtd2kya3h3bGk3d2lyeDd4dmoyZnp5NzRlbnZnbnIzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD31EMy7t9dzwpq/giphy.gif)
 
 Librospedia te quiere mucho pero en especial Chayanne (Gracias!)
