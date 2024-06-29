@@ -1,3 +1,5 @@
+#defino todas  las funciones y vistas del corazon de la aplicacion, que quiero que haga
+
 from flask import jsonify, request
 from app.models import Book
 
@@ -9,9 +11,11 @@ def get_all_books():
     books = Book.get_all()
     return jsonify([book.serialize() for book in books])
 
-def get_book():
-    response = {'message':'GET BOOK' }
-    return jsonify(response)
+def get_book(book_id):
+    book = Book.get_by_id(book_id)
+    if not book:
+        return jsonify({'message':'Book not found'}),404
+    return jsonify(book.serialize())
 
 def create_book():
     #Toma los datos ingresados en el crud en los distintos campos que viajaron en ese formato y conertirlos en un diccionario de python
